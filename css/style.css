@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Family Home;
+    src: url(../fonts/Family\ Home.ttf);
+}
+
+
+.icono { list-style-image: url("../images/huellita.png"); 
+    width: 5px ;
+} 
